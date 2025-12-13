@@ -1,0 +1,73 @@
+{
+  "onboarding": {
+    "slide1": {
+      "title": "Welkom to MarkSure Connect Salone",
+      "description": "Yu gateway to govment sεvis, ripresentativ, εn εmεjεnsi sεpot na Salone"
+    },
+    "slide2": {
+      "title": "Akses Govment Sεvis",
+      "description": "Luk εn sach fɔ paspɔt, drayva laysεns, bεt sεtifiket, biznεs rεjistrεshɔn, εn mɔ"
+    },
+    "slide3": {
+      "title": "Kɔnεkt wit Ripresentativ",
+      "description": "Fayn εn kɔntakt yu εlεkt ɔfishul εn govment ripresentativ bay distrikt ɔ kɔnstitwεnsi"
+    },
+    "next": "Nεks",
+    "skip": "Skip",
+    "getStarted": "Stat Naw",
+    "selectLanguage": "Pik Langwej"
+  },
+  "home": {
+    "title": "MarkSure Connect",
+    "subtitle": "Yu sivik dijital platfɔm",
+    "quickAccess": "Kwik Akses",
+    "services": "Govment Sεvis",
+    "servicesDesc": "Luk ɔl sεvis dεm",
+    "representatives": "Ripresentativ",
+    "representativesDesc": "Fayn yu εlεkt ɔfishul dεm",
+    "emergency": "Εmεjεnsi",
+    "emergencyDesc": "Kwik akses to εmεjεnsi sεvis",
+    "fees": "Fis Infɔmεshɔn",
+    "feesDesc": "Si sεvis fis εn kɔst dεm"
+  },
+  "services": {
+    "title": "Govment Sεvis",
+    "search": "Sach sεvis...",
+    "allCategories": "Ɔl Katεgɔri",
+    "viewDetails": "Si Ditel"
+  },
+  "representatives": {
+    "title": "Ripresentativ",
+    "search": "Sach ripresentativ...",
+    "allDistricts": "Ɔl Distrikt",
+    "contact": "Kɔntakt"
+  },
+  "emergency": {
+    "title": "Εmεjεnsi Sεvis",
+    "subtitle": "Tap fɔ kɔl naw naw",
+    "police": "Polis",
+    "fire": "Faya Sεvis",
+    "ambulance": "Ambulans",
+    "national": "Nashɔnal Εmεjεnsi"
+  },
+  "account": {
+    "title": "Akawnt & Sεtin",
+    "language": "Langwej",
+    "darkMode": "Dak Mod",
+    "about": "Abɔt MarkSure Connect",
+    "version": "Vεshɔn 1.0.0"
+  },
+  "nav": {
+    "home": "Om",
+    "services": "Sεvis",
+    "reps": "Rεps",
+    "emergency": "Εmεjεnsi",
+    "account": "Akawnt"
+  },
+  "common": {
+    "close": "Kloz",
+    "submit": "Sεbmit",
+    "cancel": "Kansul",
+    "reportWrongInfo": "Ripɔt Rɔn Infɔ"
+  }
+}

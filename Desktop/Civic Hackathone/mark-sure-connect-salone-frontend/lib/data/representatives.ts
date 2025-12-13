@@ -1,0 +1,153 @@
+export interface Representative {
+  id: string
+  name: string
+  position: string
+  positionKr: string
+  district: string
+  constituency?: string
+  party?: string
+  phone?: string
+  email?: string
+  officeAddress: string
+  officeAddressKr: string
+}
+
+export const districts = [
+  "Western Area Urban",
+  "Western Area Rural",
+  "Bo",
+  "Bombali",
+  "Bonthe",
+  "Kailahun",
+  "Kambia",
+  "Karene",
+  "Kenema",
+  "Koinadugu",
+  "Kono",
+  "Moyamba",
+  "Port Loko",
+  "Pujehun",
+  "Tonkolili",
+  "Falaba",
+]
+
+export const representatives: Representative[] = [
+  {
+    id: "rep-1",
+    name: "Hon. Dr. Kandeh Kolleh Yumkella",
+    position: "Member of Parliament",
+    positionKr: "Mεmba ɔf Paliamεnt",
+    district: "Kambia",
+    constituency: "Constituency 097",
+    party: "Independent",
+    phone: "+232-76-111222",
+    email: "kyumkella@parliament.gov.sl",
+    officeAddress: "Parliament Building, Tower Hill, Freetown",
+    officeAddressKr: "Paliamεnt Bildin, Tawa il, Fritɔng",
+  },
+  {
+    id: "rep-2",
+    name: "Hon. Ibrahim Bangura",
+    position: "Member of Parliament",
+    positionKr: "Mεmba ɔf Paliamεnt",
+    district: "Western Area Urban",
+    constituency: "Constituency 110",
+    party: "APC",
+    phone: "+232-76-222333",
+    email: "ibangura@parliament.gov.sl",
+    officeAddress: "Parliament Building, Tower Hill, Freetown",
+    officeAddressKr: "Paliamεnt Bildin, Tawa il, Fritɔng",
+  },
+  {
+    id: "rep-3",
+    name: "Hon. Fatmata Bintu Alhadi",
+    position: "Member of Parliament",
+    positionKr: "Mεmba ɔf Paliamεnt",
+    district: "Bo",
+    constituency: "Constituency 014",
+    party: "SLPP",
+    phone: "+232-76-333444",
+    email: "falhadi@parliament.gov.sl",
+    officeAddress: "Parliament Building, Tower Hill, Freetown",
+    officeAddressKr: "Paliamεnt Bildin, Tawa il, Fritɔng",
+  },
+  {
+    id: "rep-4",
+    name: "Hon. Abubakarr Kamara",
+    position: "District Chairman",
+    positionKr: "Distrikt Cεaman",
+    district: "Bombali",
+    phone: "+232-76-444555",
+    officeAddress: "District Council Office, Makeni",
+    officeAddressKr: "Distrikt Kawnsul Ɔfis, Makεni",
+  },
+  {
+    id: "rep-5",
+    name: "Hon. Haja Mariama Kargbo",
+    position: "Member of Parliament",
+    positionKr: "Mεmba ɔf Paliamεnt",
+    district: "Kenema",
+    constituency: "Constituency 045",
+    party: "SLPP",
+    phone: "+232-76-555666",
+    email: "mkargbo@parliament.gov.sl",
+    officeAddress: "Parliament Building, Tower Hill, Freetown",
+    officeAddressKr: "Paliamεnt Bildin, Tawa il, Fritɔng",
+  },
+  {
+    id: "rep-6",
+    name: "Hon. Mohamed Sesay",
+    position: "Paramount Chief",
+    positionKr: "Paramawnt Cif",
+    district: "Kono",
+    phone: "+232-76-666777",
+    officeAddress: "Chiefdom Headquarters, Koidu",
+    officeAddressKr: "Cifdɔm Edkwata, Koydu",
+  },
+  {
+    id: "rep-7",
+    name: "Hon. Dr. Amara Kallon",
+    position: "Minister of Health and Sanitation",
+    positionKr: "Minista ɔf Εlt εn Sanitεshɔn",
+    district: "Western Area Urban",
+    phone: "+232-76-777888",
+    email: "akallon@health.gov.sl",
+    officeAddress: "Ministry of Health, Youyi Building, Freetown",
+    officeAddressKr: "Ministri ɔf Εlt, Yuyi Bildin, Fritɔng",
+  },
+  {
+    id: "rep-8",
+    name: "Hon. Isata Kabia",
+    position: "Mayor",
+    positionKr: "Mεya",
+    district: "Western Area Urban",
+    phone: "+232-76-888999",
+    email: "ikabia@fcc.gov.sl",
+    officeAddress: "Freetown City Council, Wallace Johnson Street, Freetown",
+    officeAddressKr: "Fritɔng Siti Kawnsul, Walis Jɔnsɔn Strit, Fritɔng",
+  },
+  {
+    id: "rep-9",
+    name: "Hon. Mohamed Rahman Swaray",
+    position: "Minister of Information and Civic Education",
+    positionKr: "Minista ɔf Infɔmεshɔn εn Sivik Εdyukεshɔn",
+    district: "Port Loko",
+    phone: "+232-76-999000",
+    email: "mswaray@information.gov.sl",
+    officeAddress: "Ministry of Information, Youyi Building, Freetown",
+    officeAddressKr: "Ministri ɔf Infɔmεshɔn, Yuyi Bildin, Fritɔng",
+  },
+  {
+    id: "rep-10",
+    name: "Hon. Alice Jalloh",
+    position: "Member of Parliament",
+    positionKr: "Mεmba ɔf Paliamεnt",
+    district: "Tonkolili",
+    constituency: "Constituency 082",
+    party: "APC",
+    phone: "+232-76-000111",
+    email: "ajalloh@parliament.gov.sl",
+    officeAddress: "Parliament Building, Tower Hill, Freetown",
+    officeAddressKr: "Paliamεnt Bildin, Tawa il, Fritɔng",
+  },
+]

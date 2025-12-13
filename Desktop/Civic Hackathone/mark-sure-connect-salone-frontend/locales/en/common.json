@@ -1,0 +1,73 @@
+{
+  "onboarding": {
+    "slide1": {
+      "title": "Welcome to MarkSure Connect Salone",
+      "description": "Your gateway to government services, representatives, and emergency support in Sierra Leone"
+    },
+    "slide2": {
+      "title": "Access Government Services",
+      "description": "Browse and search for passport, driver's license, birth certificates, business registration, and more"
+    },
+    "slide3": {
+      "title": "Connect with Representatives",
+      "description": "Find and contact your elected officials and government representatives by district or constituency"
+    },
+    "next": "Next",
+    "skip": "Skip",
+    "getStarted": "Get Started",
+    "selectLanguage": "Select Language"
+  },
+  "home": {
+    "title": "MarkSure Connect",
+    "subtitle": "Your civic digital platform",
+    "quickAccess": "Quick Access",
+    "services": "Government Services",
+    "servicesDesc": "Browse all available services",
+    "representatives": "Representatives",
+    "representativesDesc": "Find your elected officials",
+    "emergency": "Emergency",
+    "emergencyDesc": "Quick access to emergency services",
+    "fees": "Fees Information",
+    "feesDesc": "View service fees and costs"
+  },
+  "services": {
+    "title": "Government Services",
+    "search": "Search services...",
+    "allCategories": "All Categories",
+    "viewDetails": "View Details"
+  },
+  "representatives": {
+    "title": "Representatives",
+    "search": "Search representatives...",
+    "allDistricts": "All Districts",
+    "contact": "Contact"
+  },
+  "emergency": {
+    "title": "Emergency Services",
+    "subtitle": "Tap to call immediately",
+    "police": "Police",
+    "fire": "Fire Service",
+    "ambulance": "Ambulance",
+    "national": "National Emergency"
+  },
+  "account": {
+    "title": "Account & Settings",
+    "language": "Language",
+    "darkMode": "Dark Mode",
+    "about": "About MarkSure Connect",
+    "version": "Version 1.0.0"
+  },
+  "nav": {
+    "home": "Home",
+    "services": "Services",
+    "reps": "Reps",
+    "emergency": "Emergency",
+    "account": "Account"
+  },
+  "common": {
+    "close": "Close",
+    "submit": "Submit",
+    "cancel": "Cancel",
+    "reportWrongInfo": "Report Wrong Info"
+  }
+}
